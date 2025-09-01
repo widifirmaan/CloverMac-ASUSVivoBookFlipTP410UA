@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Clover EFI Hackintosh Untuk ASUS TP410UA</h1>
+<h1 align="center" id="title">Clover EFI Hackintosh for ASUS TP410UA</h1>
 
 <p id="description">All Feature Working Except AirDrop</p>
 
